@@ -90,15 +90,39 @@
     "semantic_hash": "529c7793794a9bc7563da859e914ee4d"
   },
   "src/server/components/court.ts": {
-    "mtime": 1793986892.1996565,
-    "seen": 1793986894.805319,
-    "ast_hash": "b6f05b8a354c10bdf53d721f9a9a1dd4",
-    "semantic_hash": "b6f05b8a354c10bdf53d721f9a9a1dd4"
+    "mtime": 1793987300.7255425,
+    "seen": 1793987782.6856503,
+    "ast_hash": "058a793492f4dbeae1dc82d8bb061f9d",
+    "semantic_hash": ""
   },
   "src/server/services/match-service.ts": {
     "mtime": 1793982641.5996795,
     "seen": 1793986894.8053315,
     "ast_hash": "017fa45d62150418fe192969e464a759",
     "semantic_hash": "017fa45d62150418fe192969e464a759"
+  },
+  "src/client/components/paddle.ts": {
+    "mtime": 1793989493.6580062,
+    "seen": 1793989624.8490815,
+    "ast_hash": "87c810190b2fb3fea0a7f1177f674891",
+    "semantic_hash": ""
+  },
+  "src/client/controllers/player-controller.ts": {
+    "mtime": 1793989597.6487546,
+    "seen": 1793989624.8490865,
+    "ast_hash": "964d41f8595e5729a1a12f5994a730f7",
+    "semantic_hash": ""
+  },
+  "src/shared/util/wait-for-child.ts": {
+    "mtime": 1793989344.9552946,
+    "seen": 1793989624.849125,
+    "ast_hash": "8a5ffb1815c596c8f93d23e88d4ff871",
+    "semantic_hash": ""
+  },
+  "package-lock.json": {
+    "mtime": 1793975992.8826528,
+    "seen": 1793987782.6856706,
+    "ast_hash": "8867d8bdc78008d465a82555bdb44384",
+    "semantic_hash": ""
   }
 }

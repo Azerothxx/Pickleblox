@@ -25,9 +25,9 @@
   },
   "default.project.json": {
     "mtime": 1793978649.0636392,
-    "seen": 1793981828.574912,
+    "seen": 1793986894.8053024,
     "ast_hash": "d8233e280eada5b30df171416a46c66e",
-    "semantic_hash": ""
+    "semantic_hash": "d8233e280eada5b30df171416a46c66e"
   },
   "package.json": {
     "mtime": 1730586933.0,
@@ -79,9 +79,9 @@
   },
   "AGENTS.md": {
     "mtime": 1793977555.1304286,
-    "seen": 1793977925.305818,
+    "seen": 1793986894.8053446,
     "ast_hash": "db2b64f58dab9bc397cf3d5852366fbc",
-    "semantic_hash": ""
+    "semantic_hash": "db2b64f58dab9bc397cf3d5852366fbc"
   },
   "README.md": {
     "mtime": 1730586933.0,
@@ -90,20 +90,38 @@
     "semantic_hash": "529c7793794a9bc7563da859e914ee4d"
   },
   "src/server/components/court.ts": {
-    "mtime": 1793981100.5074532,
-    "seen": 1793981828.574924,
-    "ast_hash": "a83074120b30d69644a5e6aa7799745d",
+    "mtime": 1793987300.7255425,
+    "seen": 1793987782.6856503,
+    "ast_hash": "058a793492f4dbeae1dc82d8bb061f9d",
     "semantic_hash": ""
   },
   "src/server/services/match-service.ts": {
     "mtime": 1793982641.5996795,
-    "seen": 1793982678.6039493,
+    "seen": 1793986894.8053315,
     "ast_hash": "017fa45d62150418fe192969e464a759",
+    "semantic_hash": "017fa45d62150418fe192969e464a759"
+  },
+  "src/client/components/paddle.ts": {
+    "mtime": 1793987760.9737616,
+    "seen": 1793987782.6856408,
+    "ast_hash": "1e72f41f7a8a251093c4a18140f49fd0",
+    "semantic_hash": ""
+  },
+  "src/client/controllers/player-controller.ts": {
+    "mtime": 1793989344.0608883,
+    "seen": 1793989367.0444736,
+    "ast_hash": "afc410d1ab0974dd9ff8ceb5f9094772",
+    "semantic_hash": ""
+  },
+  "src/shared/wait-for-child.ts": {
+    "mtime": 1793989344.9552946,
+    "seen": 1793989367.0444956,
+    "ast_hash": "8a5ffb1815c596c8f93d23e88d4ff871",
     "semantic_hash": ""
   },
   "package-lock.json": {
     "mtime": 1793975992.8826528,
-    "seen": 1793977925.3058224,
+    "seen": 1793987782.6856706,
     "ast_hash": "8867d8bdc78008d465a82555bdb44384",
     "semantic_hash": ""
   }
