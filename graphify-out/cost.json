@@ -7,6 +7,15 @@
       "files": 15,
       "token_usage_measured": false,
       "note": "AST uses no LLM API tokens; semantic agent usage unavailable from host."
+    },
+    {
+      "date": "2026-11-06T17:41:34.817422+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 17,
+      "semantic_files": 1,
+      "token_usage_measured": false,
+      "note": "AST refresh and AGENTS semantic refresh; host agent usage unavailable."
     }
   ],
   "total_input_tokens": 0,
